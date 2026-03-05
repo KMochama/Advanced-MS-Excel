@@ -127,3 +127,55 @@ The Excel dashboard summarizes key metrics, including:
 
 # Repository Structure
 
+Avocado-Sales-Analysis
+│
+├── Avocado Sales Volume Report (2015 - 2023).xlsx
+├── README.md
+│
+└── Dashboard Sheets
+├── Dashboard
+├── Summaries
+├── Summary Per Region
+├── Organic
+└── Conventional
+
+---
+
+# Key Insights
+
+Key findings from the analysis:
+
+- Conventional avocados account for the **largest share of total sales volume**
+- Organic avocados typically command **higher market prices**
+- Certain regions dominate national sales
+- Demand patterns fluctuate seasonally
+
+---
+
+# Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Excel Analytics
+- Pivot Table Analysis
+- Business Intelligence Reporting
+- Dashboard Design
+
+---
+
+# Future Improvements
+
+Possible extensions:
+
+- Build a **Power BI dashboard**
+- Perform **time-series forecasting**
+- Automate refresh using **Power Query**
+- Conduct **price elasticity analysis**
+
+---
+
+# Author
+
+**Kevin Osioma**
+
+Data Analyst | Data Engineer | Data Visualizations 
