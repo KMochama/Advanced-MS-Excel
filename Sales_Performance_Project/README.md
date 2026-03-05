@@ -128,15 +128,23 @@ The Excel dashboard summarizes key metrics, including:
 # Repository Structure
 
 Avocado-Sales-Analysis
-│
+
+
 ├── Avocado Sales Volume Report (2015 - 2023).xlsx
+
 ├── README.md
-│
+
+
 └── Dashboard Sheets
+
 ├── Dashboard
+
 ├── Summaries
+
 ├── Summary Per Region
+
 ├── Organic
+
 └── Conventional
 
 ---
